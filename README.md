@@ -15,4 +15,5 @@
 <img width="3139" height="2381" alt="Untitled92_20251103130249" src="https://github.com/user-attachments/assets/42aef434-9f35-4241-8ed0-8710ee1dcf90" />
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XIIsenna&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIIsenna&layout=compact&theme=radical)
+
