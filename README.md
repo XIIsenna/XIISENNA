@@ -15,8 +15,36 @@
 <img width="3139" height="2381" alt="Untitled92_20251103130249" src="https://github.com/user-attachments/assets/42aef434-9f35-4241-8ed0-8710ee1dcf90" />
 
 
+<!-- TITLE -->
+<h1 align="center">🥂 Johnny Mode: Activated 🕶️</h1>
+<p align="center">"The camera loves me, baby — code does too."</p>
+
+<!-- BADGES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4655&height=100&section=header&text=XIIsenna&fontColor=ffffff&fontSize=40&fontAlignY=55&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=XIIsenna&color=grey&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/badge/Status-Live-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Mood-Chaotic%20Neutral-white?style=flat-square">
+</p>
+
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XIIsenna&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=000000&text_color=333333" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XIIsenna&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" width="48%">
+</p>
+
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIIsenna&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333" alt="Top Languages" width="50%">
+</p>
+
+<!-- QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Some%20people%20have%20talent.%20I%20have%20me.&author=Johnny%20Cage" alt="Johnny Cage Quote"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="Jokes" width="400">
 </p>
 
 
