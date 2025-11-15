@@ -21,7 +21,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XIIsenna&color=grey&style=flat-square" alt="views=93832493289034982"/>
+  <img src="https://komarev.com/ghpvc/?username=XIIsenna&color=grey&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/badge/Status-Live-black?style=flat-square">
   <img src="https://img.shields.io/badge/Mood-Chaotic%20Neutral-white?style=flat-square">
 </p>
